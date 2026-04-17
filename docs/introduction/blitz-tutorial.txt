@@ -102,7 +102,7 @@ This is just an introduction to the framework. There are a number of other featu
 - Optional caching
 - Auto-population for missing values using other fields, attributes, methods, callables or literal values
 - Grouped fields, for both admin editing and output
-- Hidden fields, ie not editable in admin
+- Hidden fields, is not editable in admin
 - API for custom fields to provide customised rendering, cleaning, etc
 
 Complete details on these are provided in the :ref:`API reference <reference-definition>`.
